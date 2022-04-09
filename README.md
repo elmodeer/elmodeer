@@ -1,4 +1,4 @@
-<a href="https://twitter.com/hesham_ossman" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/elmodeer" target="_blank" rel="nofollow"><img align="right" alt="Hesham's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/hesham_ossman" target="_blank" rel="nofollow"><img align="right" alt="Hesham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/elmodeer" target="_blank" rel="nofollow"><img align="right" alt="Hesham's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/heshamothman_" target="_blank" rel="nofollow"><img align="right" alt="Hesham's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Hesham! 

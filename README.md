@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/heshamothman_" target="_blank" rel="nofollow"><img align="right" alt="Hesham's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Hesham! 
-I am a Software Engineer at [MOIA](https://www.moia.io/en) solving problems using tech-stack like Kotlin, Python, AWS, graphQL, and more. 
+I am a Software Engineer solving problems using tech-stack like Kotlin, Python, AWS, graphQL, and more. 
 
 I am a motivated, adaptable, and responsible person seeking challenging opportunities in the field where I can further develop my skills, face new challenges. I enjoy building scalable systems and high-performing programs.
 
